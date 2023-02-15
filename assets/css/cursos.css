@@ -1,0 +1,309 @@
+
+header{
+    background-color: #2e948a;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
+    padding: 30px 0px;
+    min-height: 117px;
+    box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+   
+    
+}
+Nav a{
+    
+    text-transform: uppercase;
+    color: white;
+    font-size:20px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 42px;
+}
+
+.container{
+    max-width: 1440px;
+    padding: 0px 103px 0px 82px;
+    margin: 0 auto;
+}
+.navbar{
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+
+#destaque .container h1{
+    font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 69px;
+/* identical to box height */
+
+text-transform: capitalize;
+color: #FF4081;
+}
+
+#destaque .container h2{
+    position: absolute;
+width: 317px;
+height: 23px;
+left: 82px;
+top: 267px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #555555;
+
+
+}
+
+#destaque .tude p{
+    position: absolute;
+width: 512px;
+height: 40px;
+left: 545px;
+top: 406px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 40px;
+
+color: #FF4081;
+
+}
+
+#destaque .tude span{
+    position: absolute;
+width: 724px;
+height: 105px;
+left: 545px;
+top: 483px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+}
+
+#destaque .tude a{
+   
+position: absolute;
+text-decoration: none;
+text-align: center;
+width: 216px;
+height: 25px;
+left: 554px;
+top: 654px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #FFFFFF;
+position: absolute;
+width: 233px;
+height: 51px;
+left: 545px;
+top: 641px;
+
+background: #419488;
+border-radius: 62px;
+}
+
+#destaque .tode p{
+    position: absolute;
+width: 373px;
+height: 40px;
+left: 545px;
+top: 947px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 40px;
+text-align: center;
+
+color: #FF4081;
+
+}
+#destaque .tode span{
+    position: absolute;
+width: 724px;
+height: 105px;
+left: 545px;
+top: 1024px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+}
+#destaque .tode a{
+position: absolute;
+width: 216px;
+height: 25px;
+left: 554px;
+top: 1212px;
+text-align: center;
+text-decoration: none;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+color: #FFFFFF;
+position: absolute;
+width: 233px;
+height: 51px;
+left: 545px;
+top: 1199px;
+
+background: #2E948A;
+border-radius: 62px;
+
+
+}
+#destaque .todi p{
+    position: absolute;
+    width: 425px;
+    height: 40px;
+    left: 534px;
+    top: 1550px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+    text-align: center;
+    
+    color: #FF4081;
+    
+}
+#destaque .todi span{
+position: absolute;
+width: 724px;
+height: 105px;
+left: 560px;
+top: 1658px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+}
+#destaque .todi a{
+position: absolute;
+text-align: center;
+text-decoration: none;
+width: 216px;
+height: 25px;
+left: 570px;
+top: 1802px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #FFFFFF;
+
+position: absolute;
+width: 233px;
+height: 51px;
+left: 561px;
+top: 1789px;
+
+background: #2E948A;
+border-radius: 62px;
+
+}
+
+#destaque .tude img {
+    margin-top: 10%;
+    margin-right: 10%;
+    height: 380px;
+    width: 381px;
+
+}
+
+#destaque .tode img {
+    margin-top: 10%;
+    margin-right: 10%;
+    height: 380px;
+    width: 381px;
+
+}
+
+#destaque .todi img{
+    margin-top: 10%;
+    margin-right: 10%;
+    height: 380px;
+    width: 381px;
+
+}
+.destaque {
+    display: flex;
+    justify-content: center;}
+    
+    .hero-footer {
+        width: cover;
+        height: 200px;
+        background: #419488;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    
+    .three {
+        display: flex;
+        flex-direction: column;
+        margin-top: 40px;
+    }
+    
+    .three a {
+        text-decoration: none;
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23px;
+        text-align: center;
+        color: #FFFFFF;
+        padding: 14px 40px;
+        border: 2px solid #FFFFFF;
+        border-radius: 62px;
+        margin-top: 10px;
+    
+    }
+    
